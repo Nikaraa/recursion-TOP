@@ -21,4 +21,5 @@ def fibs_rec(n)
   num.push(num[-1] + num[-2])
 end
 
+p fibs(11)
 p fibs_rec(15)
